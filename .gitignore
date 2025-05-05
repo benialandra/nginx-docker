@@ -1,0 +1,9 @@
+node_modules/
+
+logs
+*.logs
+
+bower_components/
+
+.DS_Store
+Thumbs.db
